@@ -3,9 +3,9 @@
 import runtime_path  # isort:skip
 
 import pytest
-from tinynn.core.layer import *
-from tinynn.core.net import Net
-from tinynn.utils.seeder import random_seed
+from oreoweb.core.layer import *
+from oreoweb.core.net import Net
+from oreoweb.utils.seeder import random_seed
 
 random_seed(0)
 
