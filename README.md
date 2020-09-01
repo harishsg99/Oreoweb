@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://github.com/rahmonov/oreoweb/blob/master/oreoweb.jpg?raw=True">
-</p>
 
 ---
 
