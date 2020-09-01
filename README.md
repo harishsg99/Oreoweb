@@ -1,4 +1,4 @@
-# Oreoweb
+# Oreoweb [![Join the chat at https://gitter.im/Oreoweb/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Oreoweb/community)
 
 Oreoweb is a Python Web Framework built for Developers to integrate scale AI powered web and API based applications.Oreoweb framework supports web development and API development with inbuilt Database and inbuilt deep learning library
 
