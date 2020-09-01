@@ -1,19 +1,19 @@
-"""Test the functionality of tinynn. Inspired by https://github.com/Thenerdstation/mltest"""
+
 
 import runtime_path  # isort:skip
 
 import numpy as np
 
 import pytest
-from tinynn.core.layer import Conv2D
-from tinynn.core.layer import Dense
-from tinynn.core.layer import Flatten
-from tinynn.core.layer import MaxPool2D
-from tinynn.core.loss import MSE
-from tinynn.core.model import Model
-from tinynn.core.net import Net
-from tinynn.core.optimizer import SGD
-from tinynn.utils.seeder import random_seed
+from oreoweb.core.layer import Conv2D
+from oreoweb.core.layer import Dense
+from oreoweb.core.layer import Flatten
+from oreoweb.core.layer import MaxPool2D
+from oreoweb.core.loss import MSE
+from oreoweb.core.model import Model
+from oreoweb.core.net import Net
+from oreoweb.core.optimizer import SGD
+from oreoweb.utils.seeder import random_seed
 
 random_seed(0)
 
