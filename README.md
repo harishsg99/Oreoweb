@@ -1,9 +1,6 @@
+# Oreoweb
 
----
-
-# oreoweb
-
-oreoweb is a Python Web Framework .oreoweb frameworks supports web development and API development with inbuilt Database and inbuilt deep learning library
+Oreoweb is a Python Web Framework.Oreoweb frameworks supports web development and API development with inbuilt Database and inbuilt deep learning library
 
 It is a WSGI framework and can be used with any WSGI application server such as Gunicorn.
 
