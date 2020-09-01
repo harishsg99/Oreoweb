@@ -2,9 +2,9 @@ import runtime_path  # isort:skip
 
 import numpy as np
 
-from tinynn.core.layer import Dense
-from tinynn.core.net import Net
-from tinynn.core.net import StructuredParam
+from oreoweb.core.layer import Dense
+from oreoweb.core.net import Net
+from oreoweb.core.net import StructuredParam
 
 
 def test_struct_param():
