@@ -21,7 +21,7 @@ It is a WSGI framework and can be used with any WSGI application server such as 
 - Middleware
 - Deep learning
 - NoSQL DB
-
+- AutoML(Coming Soon)
 
 ## Quick Start
 
