@@ -1,9 +1,9 @@
 """Network layers."""
 
 import numpy as np
-from tinynn.core.initializer import Ones
-from tinynn.core.initializer import XavierUniform
-from tinynn.core.initializer import Zeros
+from oreoweb.core.initializer import Ones
+from oreoweb.core.initializer import XavierUniform
+from oreoweb.core.initializer import Zeros
 
 
 class Layer:
