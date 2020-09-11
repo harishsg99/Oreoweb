@@ -12,7 +12,7 @@ from .templates import get_templates_env
 from .utils import empty_wsgi_app, cut_static_root, request_for_static
 
 
-class oreoweb:
+class Oreoweb:
     def __init__(self, templates_dir="templates", static_dir="static", debug=True):
         self.templates = get_templates_env(os.path.abspath(templates_dir))
         self.static_dir = os.path.abspath(static_dir)
