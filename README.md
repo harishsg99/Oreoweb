@@ -1,4 +1,4 @@
-# Oreoweb [![Join the chat at https://gitter.im/Oreoweb/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Oreoweb/community) ![test](https://forthebadge.com/images/badges/made-with-python.svg)
+# Oreoweb [![Join the chat at https://gitter.im/Oreoweb/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Oreoweb/community) ![test](https://forthebadge.com/images/badges/made-with-python.svg)[![Build Status](https://travis-ci.com/harishsg99/Oreoweb.svg?token=dnCx4fypiC7KW2gtMS6N&branch=master)](https://travis-ci.com/harishsg99/Oreoweb
 
 <p align="center">
     <img src="https://github.com/harishsg99/Oreoweb/blob/master/pic.jfif?raw=true">
