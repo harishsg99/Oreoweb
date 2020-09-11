@@ -1,8 +1,8 @@
 """Loss functions"""
 
 import numpy as np
-from tinynn.utils.math import log_softmax
-from tinynn.utils.math import softmax
+from oreoweb.utils.math import log_softmax
+from oreoweb.utils.math import softmax
 
 
 class Loss:
