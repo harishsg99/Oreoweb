@@ -4,7 +4,7 @@
     <img src="https://github.com/harishsg99/Oreoweb/blob/master/pic.jfif?raw=true">
 </p>
 
-Oreoweb is a Python Web Framework built for Developers to integrate scale AI powered web and API based applications.Oreoweb framework supports web development and API development with inbuilt Database , deep learning library and AUTOML library
+Oreoweb is a Python Web Framework built for Developers to integrate and scale AI powered web and API based applications.Oreoweb framework supports web development and API development with inbuilt Database , deep learning library and AUTOML library
 
 It is a WSGI framework and can be used with any WSGI application server such as Gunicorn.
 
