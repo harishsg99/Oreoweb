@@ -1,6 +1,6 @@
 from torpy import TorClient
 
-def TorConnect():
+def TorConnect(hostname):
 hostname = 'ifconfig.me'  # It's possible use onion hostname here as well
 with TorClient() as tor:
     # Choose random guard node and create 3-hops circuit
@@ -10,3 +10,4 @@ with TorClient() as tor:
             # Now we can communicate with host
             stream.send(b'GET / HTTP/1.0\r\nHost: %s\r\n\r\n' % hostname.encode())
             recv = stream.recv(1024)
+return recv
