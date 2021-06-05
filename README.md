@@ -24,7 +24,7 @@ Check out Oreoweb Docs :https://harishsg99.gitbook.io/oreoweb-do/
 - Middleware
 - Deep learning
 - NoSQL DB
-- AutoML(Coming Soon)
+- AutoML
 - Inbuilt templating engine
 
 ## Quick Start
