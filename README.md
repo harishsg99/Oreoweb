@@ -26,7 +26,7 @@ Check out Oreoweb Docs :https://harishsg99.gitbook.io/oreoweb-do/
 - NoSQL DB
 - AutoML
 - Inbuilt templating engine
-
+- Tor proxy support
 ## Quick Start
 
 Install it:
