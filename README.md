@@ -28,6 +28,8 @@ Check out Oreoweb Docs :https://harishsg99.gitbook.io/oreoweb-do/
 - Inbuilt templating engine
 - Tor proxy support(Added API)
 - Ngrok support(Coming soon)
+- Encryption Support(Coming Soon)
+
 ## Quick Start
 
 Install it:
