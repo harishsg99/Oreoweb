@@ -28,7 +28,8 @@ Check out Oreoweb Docs :https://harishsg99.gitbook.io/oreoweb-do/
 - Inbuilt templating engine
 - Tor proxy support(Added API)
 - Ngrok support(Coming soon)
-- Encryption Support(Coming Soon)
+- Request and Response Encryption Support(Coming Soon)
+- Hormonic Encryption(Coming Soon)
 
 ## Quick Start
 
